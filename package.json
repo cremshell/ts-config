@@ -1,0 +1,14 @@
+{
+  "name": "@cremshell/ts-config",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my React + Vite projects",
+  "main": "tsconfig.json",
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "vite",
+    "react"
+  ],
+  "author": "cremshell",
+  "license": "MIT"
+}
