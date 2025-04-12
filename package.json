@@ -1,5 +1,5 @@
 {
-  "name": "@cremshell/ts-config",
+  "name": "@cremshell/tsconfig",
   "version": "1.0.0",
   "description": "Shared TypeScript config for my React + Vite projects",
   "main": "tsconfig.json",

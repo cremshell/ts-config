@@ -1,4 +1,4 @@
-# @cremshell/ts-config
+# @cremshell/tsconfig
 
 This package provides a reusable `tsconfig.json` setup optimized for:
 
